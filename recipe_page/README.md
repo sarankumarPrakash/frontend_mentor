@@ -6,12 +6,10 @@ This project is a simple web application built with React that provides users wi
 
 ## Table of Contents
 
-Features
-Installation
-Usage
-Technologies Used
-Contributing
-License
+- Features
+- Installation
+- Usage
+- Technologies Used
 
 
 ## Features
