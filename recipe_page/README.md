@@ -46,9 +46,9 @@ This will run the app in development mode. Open http://localhost:3000 to view it
 
 ## Technologies Used
 
-React: A JavaScript library for building user interfaces.
-Material-UI: A popular React UI framework for building responsive and accessible components.
-CSS: Used for styling the components and layout of the application.
+- React: A JavaScript library for building user interfaces.
+- Material-UI: A popular React UI framework for building responsive and accessible components.
+- CSS: Used for styling the components and layout of the application.
 
 ## UI view 
 ![image](https://github.com/sarankumarPrakash/frontend_mentor/assets/65000913/50791343-6ff1-4d24-a5fb-a242f46a4f73)
