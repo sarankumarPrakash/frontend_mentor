@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/recipe-page/static/css/main.8a0fcb4c.css",
+    "main.js": "/recipe-page/static/js/main.427a7c94.js",
+    "static/media/Omelette.webp": "/recipe-page/static/media/Omelette.d632b87e391367227871.webp",
+    "index.html": "/recipe-page/index.html",
+    "main.8a0fcb4c.css.map": "/recipe-page/static/css/main.8a0fcb4c.css.map",
+    "main.427a7c94.js.map": "/recipe-page/static/js/main.427a7c94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0fcb4c.css",
+    "static/js/main.427a7c94.js"
+  ]
+}
