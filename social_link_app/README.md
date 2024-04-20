@@ -1,7 +1,7 @@
 
 Certainly! Below is a template for a README file for your recipe project built with React:
 
-## Recipe Project
+## Social media Link Project
  To build out this social links profile 
 
 ## Table of Contents
