@@ -1,8 +1,8 @@
 
 Certainly! Below is a template for a README file for your recipe project built with React:
 
-## Recipe Project
-This project is a simple web application built with React that provides users with various recipes, along with their ingredients, preparation time, cooking instructions, and nutrition information.
+## Social media Link Project
+ To build out this social links profile 
 
 ## Table of Contents
 
@@ -14,9 +14,7 @@ This project is a simple web application built with React that provides users wi
 
 ## Features
 
-- Display a list of recipes.
-- View detailed information about each recipe, including ingredients, preparation time, cooking instructions, and nutrition information.
-
+- Display a Social media Profile.
 
 ## Installation
 To run this project locally, follow these steps:
@@ -51,5 +49,6 @@ This will run the app in development mode. Open http://localhost:3000 to view it
 - CSS: Used for styling the components and layout of the application.
 
 ## UI view 
-![image](https://github.com/sarankumarPrakash/frontend_mentor/assets/65000913/50791343-6ff1-4d24-a5fb-a242f46a4f73)
+![image](https://github.com/sarankumarPrakash/frontend_mentor/assets/65000913/af794112-fe1a-418d-abd0-5a3917c8fade)
+
 
