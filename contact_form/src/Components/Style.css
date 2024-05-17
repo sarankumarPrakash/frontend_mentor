@@ -1,0 +1,24 @@
+.main{
+    margin-left: 30%;
+    margin-top: 5%;
+    width: 100%;
+}
+
+.username{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2%;
+}
+
+@media only screen and (max-width: 900px) {
+    .main {
+      margin-left: 20%;
+      margin-top: 5%;
+      width: 100%;
+    }
+  
+    .username {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
